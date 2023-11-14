@@ -1,0 +1,23 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+.bloco{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    width: 1000px;
+    height: 250px;
+    background-color: aqua;
+}
+img{
+    width: 200px;
+    height: 150px;
+
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+}
